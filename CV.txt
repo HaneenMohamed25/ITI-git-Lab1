@@ -1,0 +1,13 @@
+Eng.Haneen Mohamed
+Electronics and Communications Engineering
+Mansoura University
+Graduated in 2026
+
+Skills:
+Python
+Machine Learning
+Data Analysis
+Deep Learning
+Git
+
+
